@@ -1,0 +1,7 @@
+subscription_id = "REPLACE-WITH-YOUR-SUBSCRIPTION-ID"
+resource_group_name = "rg-storage-acc"
+vnet_name = "bastion-demo-vnet"
+web_subnet_name = "web-tier-subnet"
+prefix = "vmss-demo"
+vm_size = "Standard_B2s"
+ssh_public_key_path = "~/.ssh/id_ed25519.pub"
